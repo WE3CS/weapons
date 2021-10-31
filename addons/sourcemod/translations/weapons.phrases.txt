@@ -2,127 +2,123 @@
 {
 	"WSMenuTitle"
 	{
-		"en"	"Weapon Skins Menu"
+		"en"	"武器皮肤菜单（新增：激流大行动武器）"
 	}
 	"ChooseKnife"
 	{
-		"en"	"★ Change Knife ★"
+		"en"	"★ 更换您的刀具 ★"
 	}
 	"ConfigAllWeapons"
 	{
-		"en"	"Configure all weapons"
+		"en"	"配置所有武器"
 	}
 	"KnifeMenuTitle"
 	{
-		"en"	"★ Knife Selection ★"
+		"en"	"★ 选择您的刀具 ★"
 	}
 	"AllWeaponsMenuTitle"
 	{
-		"en"	"All Weapons"
+		"en"	"所有武器"
 	}
 	"Increase"
 	{
-		"en"	"Increase by %d%%"
+		"en"	"增加 %d%%"
 	}
 	"Decrease"
 	{
-		"en"	"Decrease by %d%%"
+		"en"	"减少 %d%%"
 	}
-	"NameTagInfo"
-	{
-		"en"	"Use !nametag <tag> to choose a name tag for your current weapon!"
-	}	  
 	"NameTagColor"
 	{
-		"en"	"Set Name Tag Color"
+		"en"	"设置名称标签颜色"
 	}
 	"NameTagDisabled"
 	{
-		"en"	"Name tag usage is disabled at the moment."
-	}
-	"DontSpamNameTag"
-	{
-		"en"	"Wait a while before using !nametag."
-	}
-	"NameTagNeedsParams"
-	{
-		"en"	"Use: !nametag <tag>"
+		"en"	"名称标签已禁用"
 	}
 	"ChooseLanguage"
 	{
-		"en"	"Select language for skin names:"
+		"en"	"请选择皮肤名称显示语言："
 	}
 	"ChooseColor"
 	{
-		"en"	"Choose a color:"
+		"en"	"选择一个颜色："
 	}
 	"DefaultColor"
 	{
-		"en"	"Default"
+		"en"	"默认"
 	}
 	"DefaultSkin"
 	{
-		"en"	"Default"
+		"en"	"默认"
 	}
 	"RandomSkin"
 	{
-		"en"	"Random"
+		"en"	"随机"
 	}
 	"Black"
 	{
-		"en"	"Black"
+		"en"	"黑"
 	}
-	"Grey"
-	{
-		"en"	"Grey"
-	} 
 	"Red"
 	{
-		"en"	"Red"
+		"en"	"红"
 	}
 	"Green"
 	{
-		"en"	"Green"
+		"en"	"绿"
 	}
 	"Blue"
 	{
-		"en"	"Blue"
+		"en"	"蓝"
 	}
 	"DeleteNameTag"
 	{
-		"en"	"Delete Name Tag"
+		"en"	"删除名称标签"
 	}
 	"OwnKnife"
 	{
-		"en"	"★ Your own knife"
+		"en"	"★ 您自己的刀"
+	}
+	"RandomKnife"
+	{
+		"en"	"★ 随机选择刀"
 	}
 	"SetSkin"
 	{
-		"en"	"Choose Skin"
+		"en"	"选择皮肤"
+	}
+	"Paints"
+	{
+		"en"	"使用其他皮肤"
+	}
+	"Applyother"
+	{
+		"en"	"应用到对面队伍"
 	}
 	"SetFloat"
 	{
-		"en"	"Weapon Condition: "
+		"en"	"武器磨损："
 	}
 	"StatTrak"
 	{
-		"en"	"StatTrak™: "
+		"en"	"StatTrak™："
 	}
 	"SetNameTag"
 	{
-		"en"	"Name Tag"
+		"en"	"名称标签"
 	}
 	"On"
 	{
-		"en"	"ON"
+		"en"	"开"
 	}
 	"Off"
 	{
-		"en"	"OFF"
+		"en"	"关"
 	}
 	"weapon_galilar"
 	{
-		"en"	"Galil AR"
+		"en"	"加利尔 AR"
 	}
 	"weapon_awp"
 	{
@@ -134,19 +130,19 @@
 	}
 	"weapon_m4a1_silencer"
 	{
-		"en"	"M4A1-S"
+		"en"	"M4A1 消音型"
 	}
 	"weapon_cz75a"
 	{
-		"en"	"CZ75-Auto"
+		"en"	"CZ75 自动手枪"
 	}
 	"weapon_revolver"
 	{
-		"en"	"R8 Revolver"
+		"en"	"R8 左轮手枪"
 	}
 	"weapon_deagle"
 	{
-		"en"	"Desert Eagle"
+		"en"	"沙漠之鹰"
 	}
 	"weapon_g3sg1"
 	{
@@ -158,11 +154,11 @@
 	}
 	"weapon_sawedoff"
 	{
-		"en"	"Sawed-Off"
+		"en"	"截短霰弹枪"
 	}
 	"weapon_negev"
 	{
-		"en"	"Negev"
+		"en"	"内格夫"
 	}
 	"weapon_ssg08"
 	{
@@ -174,7 +170,7 @@
 	}
 	"weapon_nova"
 	{
-		"en"	"Nova"
+		"en"	"新星"
 	}
 	"weapon_xm1014"
 	{
@@ -190,7 +186,7 @@
 	}
 	"weapon_fiveseven"
 	{
-		"en"	"Five-SeveN"
+		"en"	"FN57"
 	}
 	"weapon_aug"
 	{
@@ -198,7 +194,7 @@
 	}
 	"weapon_elite"
 	{
-		"en"	"Dual Berettas"
+		"en"	"双枪贝瑞塔"
 	}
 	"weapon_m249"
 	{
@@ -234,7 +230,7 @@
 	}
 	"weapon_bizon"
 	{
-		"en"	"PP-Bizon"
+		"en"	"PP-野牛"
 	}
 	"weapon_usp_silencer"
 	{
@@ -250,7 +246,7 @@
 	}
 	"weapon_glock"
 	{
-		"en"	"Glock-18"
+		"en"	"格洛克18型"
 	}
 	"weapon_mp5sd"
 	{
@@ -258,178 +254,198 @@
 	}
 	"weapon_bayonet"
 	{
-		"en"	"★ Bayonet"
+		"en"	"★ 刺刀"
 	}
 	"weapon_knife_gut"
 	{
-		"en"	"★ Gut Knife"
+		"en"	"★ 穿肠刀"
 	}
 	"weapon_knife_flip"
 	{
-		"en"	"★ Flip Knife"
+		"en"	"★ 折叠刀"
 	}
 	"weapon_knife_m9_bayonet"
 	{
-		"en"	"★ M9 Bayonet"
+		"en"	"★ M9 刺刀"
 	}
 	"weapon_knife_karambit"
 	{
-		"en"	"★ Karambit"
+		"en"	"★ 爪子刀"
 	}
 	"weapon_knife_tactical"
 	{
-		"en"	"★ Huntsman Knife"
+		"en"	"★ 猎杀者匕首"
 	}
 	"weapon_knife_butterfly"
 	{
-		"en"	"★ Butterfly Knife"
+		"en"	"★ 蝴蝶刀"
 	}
 	"weapon_knife_falchion"
 	{
-		"en"	"★ Falchion Knife"
+		"en"	"★ 弯刀"
 	}
 	"weapon_knife_push"
 	{
-		"en"	"★ Shadow Daggers"
+		"en"	"★ 暗影双匕"
 	}
 	"weapon_knife_survival_bowie"
 	{
-		"en"	"★ Bowie Knife"
+		"en"	"★ 鲍伊猎刀"
 	}
 	"weapon_knife_ursus"
 	{
-		"en"	"★ Ursus"
+		"en"	"★ 熊刀"
 	}
 	"weapon_knife_gypsy_jackknife"
 	{
-		"en"	"★ Navaja"
+		"en"	"★ 折刀"
 	}
 	"weapon_knife_stiletto"
 	{
-		"en"	"★ Stiletto"
+		"en"	"★ 短剑"
 	}
 	"weapon_knife_widowmaker"
 	{
-		"en"	"★ Talon"
+		"en"	"★ 锯齿爪刀"
 	}
 	"weapon_knife_css"
 	{
-		"en"	"★ Classic Knife"
+		"en"	"★ 海豹短刀"
 	}
 	"weapon_knife_cord"
 	{
-		"en"	"★ Paracord Knife"
+		"en"	"★ 系绳匕首"
 	}
 	"weapon_knife_canis"
 	{
-		"en"	"★ Survival Knife"
+		"en"	"★ 求生匕首"
 	}
 	"weapon_knife_outdoor"
 	{
-		"en"	"★ Nomad Knife"
+		"en"	"★ 流浪者匕首"
 	}
 	"weapon_knife_skeleton"
 	{
-		"en"	"★ Skeleton Knife"
+		"en"	"★ 骷髅匕首"
 	}
 	"weapon_knife_t"
 	{
-		"en"	"Knife"
+		"en"	"恐怖分子默认刀"
 	}
 	"weapon_knife"
 	{
-		"en"	"Knife"
+		"en"	"恐怖分子默认刀"
 	}
 	"ChangeNameTag"
 	{
-		"en"	"Set Name Tag"
+		"en"	"设置名称标签"
 	}
 	"NameTagNew"
 	{
-		"en"	"You can now use !ws menu to set name tag."
+		"en"	"你现在可以使用 !ws 指令设置名称标签。"
 	}
 	"GracePeriod"
 	{
-		"en"	"You can only use this command if you're dead or in the first %d seconds after every round start."
+		"en"	"你只能在你死后或开局 %d 秒后，使用 !ws 指令。"
 	}
 	"ChangeLang"
 	{
-		"en"	"Change Language"
+		"en"	"更改语言"
 	}
 	"NameTagCancelled"
 	{
-		"en"	"Name tag operation aborted."
+		"en"	"名称标签设置中断。"
 	}
 	"Yellow"
 	{
-		"en"	"Yellow"
+		"en"	"黄"
 	}
 	"NameTagInstruction"
 	{
-		"en"	"Write your desired name tag into chat. To abort, type !cancel."
+		"en"	"请将你希望设置的名称标签输入至聊天框。如需取消，请输入 !cancel 。"
 	}
 	"NameTagSuccess"
 	{
-		"en"	"Name tag successfully applied"
-	}
-	"Seed"
-	{
-		"en"	"Seed"
+		"en"	"名称标签已设置"
 	}
 	"SeedTitle"
 	{
-		"en"	"Seed: %i"
+		"en"	"图案模板： %i"
 	}
 	"SeedTitleNoSeed"
 	{
-		"en"	"Seed: ∞"
+		"en"	"图案模板： ∞"
 	}
 	"SeedRandom"
 	{
-		"en"	"Random Seed"
+		"en"	"使用随机图案模板编号"
 	}
 	"SeedManual"
 	{
-		"en"	"Manual Seed"
+		"en"	"手动设置图案模板编号"
 	}
 	"SeedSave"
 	{
-		"en"	"Save Current Seed"
+		"en"	"保存当前图案模板编号"
 	}
 	"SeedInstruction"
 	{
-		"en"	"Write your desired seed into chat. To abort, type !cancel."
+		"en"	"请将你希望设置的图案模板编号输入至聊天框。如需取消，请输入 !cancel 。"
 	}
 	"SeedSuccess"
 	{
-		"en"	"Seed successfully applied."
+		"en"	"图案模板应用成功！"
 	}
 	"SeedCancelled"
 	{
-		"en"	"Seed operation aborted."
+		"en"	"图案模板设置中断。"
 	}
 	"SeedFailed"
 	{
-		"en"	"Invalid seed (0 - 8192)"
+		"en"	"图案模板编号无效 (0 - 8192)"
 	}
 	"SeedSaved"
 	{
-		"en"	"Seed saved."
+		"en"	"图案模板编号已保存。"
+	}
+    "Seed"
+    {
+        "en"   "图案模板编号"
 	}
 	"SeedDisabled"
 	{
-		"en"	"Seed menu is disabled at the moment."
+		"en"	"图案模板选项已禁用"
 	}
 	"SeedExplanation"
 	{
-		"en"	"You should use !ws menu to set seed for skins."
+		"en"	"你需要使用!ws菜单来为皮肤设置图案模板"
 	}
 	"SeedReset"
 	{
-		"en"	"Seed reseted."
+		"en"	"图案模板已重置。"
 	}
 	"ResetSeed"
 	{
-		"en"	"Reset Seed"
+		"en"	"重置图案模板"
+	}
+	"FloatSet"
+	{
+		"en"	"输入指定值"
+	}
+	"FloatSetInstruction"
+	{
+		"en"	"请将你希望设置的磨损值输入至聊天框。如需取消，请输入 !cancel 。"
+	}
+	"FloatSetSuccess"
+	{
+		"en"	"磨损值应用成功！"
+	}
+	"FloatSetCancelled"
+	{
+		"en"	"磨损值设置中断。"
+	}
+	"FloatSetFailed"
+	{
+		"en"	"磨损值无效 (0 - 1)"
 	}
 }
